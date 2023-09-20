@@ -1,4 +1,3 @@
-#!/usr/local/python/3.10.8/bin/python3
 import math
 
 a = input("First number: ")
